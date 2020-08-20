@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UploadFile</string>
+    <string name="upload">Upload</string>
+    <string name="pdf_file_name">Enter PDF file name</string>
+</resources>
